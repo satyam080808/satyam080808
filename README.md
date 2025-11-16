@@ -6,7 +6,7 @@
 🔭 I’m currently working on **Python ML Projects**  
 🌱 I’m exploring **Flask, REST APIs, Docker, and Cloud (AWS/GCP)**  
 💬 Ask me about **Python, Flask, SQL, Docker**  
-📫 How to reach me: **your-email@example.com**  
+📫 How to reach me: **satyam08bharat@gmail.com**  
 ⚡ Fun fact: I enjoy debugging more than writing new code
 
 ---
