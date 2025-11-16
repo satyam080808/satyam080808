@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
+<h3 align="center">Python Developer | Flask REST API Enthusiast</h3>
 
-<!--
-**satyam080808/satyam080808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🔭 I’m currently working on **Python ML Projects**  
+🌱 I’m exploring **Flask, REST APIs, Docker, and Cloud (AWS/GCP)**  
+💬 Ask me about **Python, Flask, SQL, Docker**  
+📫 How to reach me: **your-email@example.com**  
+⚡ Fun fact: I enjoy debugging more than writing new code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+`Python` `JavaScript` `C`
+
+**Backend & Frameworks:**  
+`Flask` `Django` `SQLAlchemy` `Pytest`
+
+**Frontend:**  
+`HTML` `CSS` `React` `Tailwind CSS`
+
+**Databases:**  
+`PostgreSQL` `MySQL` `SQL`
+
+**Tools & Platforms:**  
+`Git` `VS Code` `Postman` `Docker` `AWS` `GCP`
+
+---
+
+<p align="center">
+  Show ❤️ by starring repositories you find useful!
+</p>
